@@ -1,7 +1,7 @@
 
 import firebase from 'firebase/app'
 import 'firebase/database'
-//conectando no firebase.
+
 const config = {
     apiKey: "AIzaSyABveoamKaAFZTcN45rbGs0uZkSo51sX8Q",
     authDomain: "reactjs-746ec.firebaseapp.com",
